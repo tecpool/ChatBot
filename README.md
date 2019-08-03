@@ -14,12 +14,12 @@ add it in build.gradle----------------------------------------------------------
  add it in your on create in activity.java file  ----------------------------------------     
         
         ChatBot chatBot=(ChatBot)findViewById(R.id.chatbot);
-        chatBot.init(CalActivity.this,"123456789","1");
+        chatBot.init(CalActivity.this,"123456","1");
         
         
  get it from us--------------------------------------------------------------------------
         
-        "123456789" -----this is your bot key    --- get from us mail to info.tecpool.com
+        "123456" -----this is your bot key    --- get from us mail to info.tecpool.com
         "1"--------this is your id          ---------get from us mail to info.tecpool.com
         
 
